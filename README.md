@@ -36,14 +36,14 @@ The model is a simple but effective **CNN** built using Keras with the following
 
 ## 📊 Model Performance
 
-- **Training Accuracy**: ~98%
-- **Validation Accuracy**: ~97%
+- **Training Accuracy**: ~97%
+- **Validation Accuracy**: ~91%
 - **Loss**: Converges within 10–15 epochs
 
 ### 📈 Accuracy & Loss Curves
 
-![Accuracy Plot](assets/accuracy.png)
-![Loss Plot](assets/loss.png)
+![Accuracy Plot](/accuracy.png)
+![Loss Plot](/loss.png)
 
 ---
 
